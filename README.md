@@ -5,7 +5,7 @@ Material de estudio y prácticas de ISO (Facultad de Informática, UNLP).
 ## Estructura
 
 - `teoria/`: diapositivas de los temas 1 (introducción) y 2 (procesos).
-- `practicasYConceptosGenerales/`: prácticas 1 a 3, explicaciones y guías de GNU/Linux.
+- `practicas-y-conceptos-generales/`: prácticas 1 a 3, explicaciones y guías de GNU/Linux.
 
 ## Temas
 
