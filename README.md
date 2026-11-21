@@ -1,21 +1,22 @@
-# ISO
-Contenido de las consultas prácticas de la cátedra de "Introducción a los Sistemas operativos " de la Facultad de Informática UNLP 💻
+# Introducción a los Sistemas Operativos (ISO)
 
-# 🖥️ Introducción a los Sistemas Operativos
+Material de estudio y prácticas de ISO (Facultad de Informática, UNLP).
 
-## 📋 Objetivos Generales
-- Dar los conceptos fundamentales de los Sistemas Operativos, a partir del enfoque clásico del SO como administrador eficiente de recursos y la facilitación al usuario de su uso.
-- Desarrollar con el alumno casos experimentales en Sistemas Operativos conocidos.
+## Estructura
 
-## 📚 Contenidos Mínimos
-- Tipos de sistemas operativos.
-- Procesos y scheduling (planificación) de recursos.
-- Administración de memoria (caché, RAM, externa).
-- Control de E/S.
-- Administración de archivos.
-- Introducción a Linux.
+- `teoria/`: diapositivas de los temas 1 (introducción) y 2 (procesos).
+- `practicasYConceptosGenerales/`: prácticas 1 a 3, explicaciones y guías de GNU/Linux.
 
-## 📖 Bibliografía
-- **William Stallings**: _Sistemas Operativos: Aspectos internos y principios de diseño_
-- **Andrew S. Tanenbaum**: _Sistemas Operativos Modernos_
-- **Abraham Silberschatz, Peter Baer Galvin & Greg Gagne**: _Fundamentos de Sistemas Operativos_
+## Temas
+
+- Tipos de sistemas operativos
+- Procesos y planificación
+- Administración de memoria
+- Entrada/salida y sistemas de archivos
+- Introducción a GNU/Linux
+
+Bibliografía: Stallings, *Sistemas Operativos*; Tanenbaum, *Sistemas Operativos Modernos*; Silberschatz, Galvin y Gagne, *Fundamentos de Sistemas Operativos*.
+
+---
+
+Las resoluciones son propias y pueden tener errores. El material de cátedra (diapositivas, enunciados y parciales) pertenece a sus docentes y está incluido solo como referencia de estudio.
